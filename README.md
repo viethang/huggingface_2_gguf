@@ -36,7 +36,7 @@ llama.cpp/quantize vince62s-phi2-psy-Q4_K_M.gguf .vince62s-phi2-psy-Q4_K_M.gguf
 ```
 
 #### Run GGUF file with llama.cpp
-- Example: `llama.cpp/main -m vince62s-phi2-psy_Q4_K_M.gguf -cml
+- Example: `llama.cpp/main -m vince62s-phi2-psy_Q4_K_M.gguf -cml`
 
 #### Run GGUF file with Ollama
 - Create Modelfile with, e.g.
