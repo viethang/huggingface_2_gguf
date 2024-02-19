@@ -1,0 +1,5 @@
+GGUF_models
+llama.cpp
+venv
+huggingface_models
+*.log
